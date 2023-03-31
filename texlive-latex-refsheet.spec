@@ -1,6 +1,6 @@
 Name:		texlive-latex-refsheet
 Version:	45076
-Release:	1
+Release:	2
 Summary:	LaTeX Reference Sheet for a thesis with KOMA-Script
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-refsheet
