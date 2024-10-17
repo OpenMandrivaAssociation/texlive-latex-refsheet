@@ -3,7 +3,7 @@ Version:	45076
 Release:	2
 Summary:	LaTeX Reference Sheet for a thesis with KOMA-Script
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-refsheet
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-refsheet
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-refsheet.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-refsheet.doc.r%{version}.tar.xz
